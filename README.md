@@ -13,24 +13,24 @@ Deep learning algorithms for finding synonyms in texts.
 - **Link:** https://github.com/Lancelot-d/AutomatedLanguageProcessing
 
 ### AutoREADME
-Automate your GitHub README with ease.
-- **Description:** A GitHub project that simplifies README generation.
+A GitHub project that generates a professional README for your repository.
+- **Description:** Automates the process of creating a professional README.
 - **Skills:** Python, GitHub API.
 - **Link:** https://github.com/Lancelot-d/AutoREADME
 
 ### ChooseYourShoes
-Enhance your Strava experience with this intuitive web application.
-- **Description:** A Dash-powered web app for managing activity gear.
-- **Skills:** Python, Dash, Strava API.
+A sleek and intuitive Dash-powered web application for managing Strava activity gear.
+- **Description:** Simplifies the way you manage and switch your activity gear on Strava.
+- **Skills:** Python, Dash, Flask.
 - **Link:** https://github.com/Lancelot-d/ChooseYourShoes
 
 ### FinBot
-Get personalized financial advice with this virtual assistant.
-- **Description:** A virtual assistant powered by Reddit data.
+A virtual assistant powered by Reddit data for personalized financial advice.
+- **Description:** Provides users with informed decisions on budgeting, saving, investing, taxes, and retirement planning.
 - **Skills:** Python, Reddit API, Natural Language Processing.
 - **Link:** https://github.com/Lancelot-d/FinBot
 
 **Get in Touch 📲**
-------------------
+-------------------
 
 Want to collaborate or discuss a project idea? Feel free to reach out to me on LinkedIn: https://www.linkedin.com/in/lancelot-domart-83b762204/
