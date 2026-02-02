@@ -1,27 +1,38 @@
-**👋 Hi, I'm Lancelot Domart**
-==========================
+**Welcome to My GitHub Profile! 🚀**
+=====================================
 
-Software Developer | Automation Enthusiast
-------------------------------------------
+Hi, I'm Lancelot Domart, a passionate software developer with a love for automation. I'm always on the lookout for innovative ways to simplify complex tasks and make a meaningful impact.
 
-I'm a passionate software developer with a love for automation. I enjoy building innovative solutions that simplify complex tasks and improve user experiences.
-
-**Featured Projects**
---------------------
+**Featured Projects 📈**
+------------------------
 
 ### AutoREADME
-Automate your README generation with ease. This GitHub project uses Python and GitHub Actions to create a professional README in seconds. [Learn more](https://github.com/Lancelot-d/AutoREADME)
+Automate your README generation with ease! 🤖
+* Brief description: A GitHub project that automates the creation of professional README profiles.
+* Skills used: Python, GitHub Actions.
+* Link: https://github.com/Lancelot-d/AutoREADME
 
 ### ChooseYourShoes
-Elevate your Strava experience with this sleek Dash-powered web application. Simplify gear management and ensure accurate logs with this intuitive tool. [Explore the code](https://github.com/Lancelot-d/ChooseYourShoes)
+Elevate your Strava experience with this sleek web app! 🏃‍♂️
+* Brief description: A Dash-powered web application that simplifies gear management and switching for runners, cyclists, and multi-sport enthusiasts.
+* Skills used: Python, Dash, Flask.
+* Link: https://github.com/Lancelot-d/ChooseYourShoes
 
 ### FinBot
-Get personalized financial advice with LOG791, a virtual assistant powered by Reddit data. Make informed decisions on budgeting, saving, investing, taxes, and retirement planning. [Discover the project](https://github.com/Lancelot-d/FinBot)
+Get personalized financial advice with this AI-powered virtual assistant! 💸
+* Brief description: A virtual assistant powered by Reddit data that provides informed decisions on budgeting, saving, investing, taxes, and retirement planning.
+* Skills used: Python, Natural Language Processing, Reddit API.
+* Link: https://github.com/Lancelot-d/FinBot
 
 ### AutomatedLanguageProcessing
-Unlock the power of deep learning algorithms to find synonyms in texts. This project showcases the potential of AI in language processing. [Check out the code](https://github.com/Lancelot-d/AutomatedLanguageProcessing)
+Unlock the power of deep learning for language processing! 🤖
+* Brief description: Deep learning algorithms that find synonyms in texts.
+* Skills used: Python, TensorFlow, Natural Language Processing.
+* Link: https://github.com/Lancelot-d/AutomatedLanguageProcessing
 
-**Get in Touch**
-----------------
+**Get in Touch! 📲**
+-------------------
 
-Want to collaborate or discuss a project idea? Let's connect on LinkedIn: [https://www.linkedin.com/in/lancelot-domart-83b762204/](https://www.linkedin.com/in/lancelot-domart-83b762204/)
+Want to collaborate or discuss a project idea? Feel free to reach out to me on LinkedIn:
+
+https://www.linkedin.com/in/lancelot-domart-83b762204/
