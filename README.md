@@ -1,38 +1,45 @@
-**Welcome to My GitHub Profile! 🚀**
-=====================================
+**👋 Hi, I'm Lancelot Domart**
+==========================
 
-Hi, I'm Lancelot Domart, a passionate software developer with a love for automation. I'm always on the lookout for innovative ways to simplify complex tasks and make a meaningful impact.
+Software Developer | Automation Enthusiast
+--------------------------------------------
 
-**Featured Projects 📈**
-------------------------
+I'm a passionate software developer with a love for automation. I believe in using technology to simplify complex tasks and make a positive impact on people's lives.
+
+**My Projects**
+-------------
+
+### SignalFromNoise
+Extract insights from Reddit and get them delivered to your inbox. 📧
+* Brief description: Reddit idea extraction and summarization service with email delivery.
+* Skills used: Natural Language Processing, Web Scraping, Email Delivery.
+* Link: https://github.com/Lancelot-d/SignalFromNoise
 
 ### AutoREADME
-Automate your README generation with ease! 🤖
-* Brief description: A GitHub project that automates the creation of professional README profiles.
-* Skills used: Python, GitHub Actions.
+Automate your GitHub README with ease. 🤖
+* Brief description: A GitHub project to generate a professional README profile.
+* Skills used: Python, GitHub API.
 * Link: https://github.com/Lancelot-d/AutoREADME
 
 ### ChooseYourShoes
-Elevate your Strava experience with this sleek web app! 🏃‍♂️
-* Brief description: A Dash-powered web application that simplifies gear management and switching for runners, cyclists, and multi-sport enthusiasts.
-* Skills used: Python, Dash, Flask.
+Enhance your Strava experience with this intuitive web application. 🏃‍♂️
+* Brief description: A Dash-powered web application to simplify activity gear management.
+* Skills used: Dash, Python, Strava API.
 * Link: https://github.com/Lancelot-d/ChooseYourShoes
 
 ### FinBot
-Get personalized financial advice with this AI-powered virtual assistant! 💸
-* Brief description: A virtual assistant powered by Reddit data that provides informed decisions on budgeting, saving, investing, taxes, and retirement planning.
-* Skills used: Python, Natural Language Processing, Reddit API.
+Get personalized financial advice with this virtual assistant. 💸
+* Brief description: A virtual assistant powered by Reddit data to provide financial advice.
+* Skills used: Natural Language Processing, Web Scraping, Reddit API.
 * Link: https://github.com/Lancelot-d/FinBot
 
 ### AutomatedLanguageProcessing
-Unlock the power of deep learning for language processing! 🤖
-* Brief description: Deep learning algorithms that find synonyms in texts.
-* Skills used: Python, TensorFlow, Natural Language Processing.
+Discover synonyms in texts with deep learning algorithms. 🤖
+* Brief description: A project using deep learning algorithms to find synonyms in texts.
+* Skills used: Natural Language Processing, Deep Learning.
 * Link: https://github.com/Lancelot-d/AutomatedLanguageProcessing
 
-**Get in Touch! 📲**
--------------------
+**Get in Touch**
+--------------
 
-Want to collaborate or discuss a project idea? Feel free to reach out to me on LinkedIn:
-
-https://www.linkedin.com/in/lancelot-domart-83b762204/
+Want to collaborate or discuss a project? Let's connect on LinkedIn: https://www.linkedin.com/in/lancelot-domart-83b762204/
