@@ -1,27 +1,45 @@
 **👋 Hi, I'm Lancelot Domart**
 ==========================
 
-Software developer with a passion for automation and innovation. I'm always on the lookout for new challenges and opportunities to push the boundaries of what's possible.
+Software Developer | Automation Enthusiast
+--------------------------------------------
 
-**Featured Projects**
--------------------
+I'm a passionate software developer with a love for automation. I believe in using technology to simplify complex tasks and make a meaningful impact.
 
-### SignalFromNoise 📣
-Extract insights from Reddit discussions and receive summaries via email. Built with Python and leveraging Reddit's API. [GitHub](https://github.com/Lancelot-d/SignalFromNoise)
+**My Projects**
+--------------
 
-### AutoREADME 📄
-A GitHub project that generates a professional README for your repository. Built with Python and leveraging GitHub's API. [GitHub](https://github.com/Lancelot-d/AutoREADME)
+### SignalFromNoise
+Extract insights from Reddit and get them delivered to your inbox. 📧
+- **Description**: Reddit idea extraction and summarization service with email delivery.
+- **Skills**: Natural Language Processing, Web Scraping, Email Delivery.
+- **Link**: https://github.com/Lancelot-d/SignalFromNoise
 
-### ChooseYourShoes 🏃‍♂️
-A sleek and intuitive web application for managing and switching activity gear on Strava. Built with Dash and Python. [GitHub](https://github.com/Lancelot-d/ChooseYourShoes)
+### AutoREADME
+Automate your GitHub README with ease. 💻
+- **Description**: A GitHub project to generate a professional README profile.
+- **Skills**: Python, GitHub API.
+- **Link**: https://github.com/Lancelot-d/AutoREADME
 
-### FinBot 💸
-A virtual assistant powered by Reddit data to provide personalized financial advice. Built with Python and leveraging Reddit's API. [GitHub](https://github.com/Lancelot-d/FinBot)
+### ChooseYourShoes
+Enhance your Strava experience with this sleek web application. 🏃‍♂️
+- **Description**: A Dash-powered web application to manage and switch activity gear.
+- **Skills**: Dash, Python, Web Development.
+- **Link**: https://github.com/Lancelot-d/ChooseYourShoes
 
-### AutomatedLanguageProcessing 🤖
-Deep learning algorithms for finding synonyms in texts. Built with Python and leveraging TensorFlow. [GitHub](https://github.com/Lancelot-d/AutomatedLanguageProcessing)
+### FinBot
+Get personalized financial advice with this virtual assistant. 💸
+- **Description**: A virtual assistant powered by Reddit data to provide financial advice.
+- **Skills**: Natural Language Processing, Web Scraping, Reddit API.
+- **Link**: https://github.com/Lancelot-d/FinBot
+
+### AutomatedLanguageProcessing
+Find synonyms in texts with deep learning algorithms. 🤖
+- **Description**: A project using deep learning algorithms to find synonyms in texts.
+- **Skills**: Deep Learning, Natural Language Processing.
+- **Link**: https://github.com/Lancelot-d/AutomatedLanguageProcessing
 
 **Get in Touch**
----------------
+----------------
 
-Want to collaborate or discuss a project idea? Feel free to reach out to me on LinkedIn: [https://www.linkedin.com/in/lancelot-domart-83b762204/](https://www.linkedin.com/in/lancelot-domart-83b762204/)
+Want to collaborate or discuss a project? Let's connect on LinkedIn: https://www.linkedin.com/in/lancelot-domart-83b762204/
