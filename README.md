@@ -1,27 +1,40 @@
-**Welcome to My GitHub Profile! 🚀**
-=====================================
+**👋 Hi, I'm Lancelot Domart**
+==========================
 
-Hi, I'm Lancelot Domart, a passionate software developer with a love for automation. I'm always on the lookout for innovative ways to simplify complex tasks and make a meaningful impact.
+Software Developer | Automation Enthusiast
+--------------------------------------------
 
-**Featured Projects 🎉**
-------------------------
+I'm a passionate software developer with a love for automation. I believe in using technology to simplify complex tasks and make a positive impact on people's lives.
 
-### SignalFromNoise: Reddit Idea Extraction and Summarization Service
-Extract valuable insights from Reddit discussions and receive summaries via email. Built with Python and leveraging Reddit's API. [GitHub](https://github.com/Lancelot-d/SignalFromNoise)
+**My Projects**
+--------------
 
-### AutoREADME: A GitHub Project
-Automate your GitHub README with ease. This project showcases a simple yet effective way to generate a professional README. [GitHub](https://github.com/Lancelot-d/AutoREADME)
+### SignalFromNoise
+Extract insights from Reddit discussions and receive summaries via email. [**Learn more**](https://github.com/Lancelot-d/SignalFromNoise)
+* Skill: Natural Language Processing (NLP), Email Automation
+* Link: https://github.com/Lancelot-d/SignalFromNoise
 
-### ChooseYourShoes: A Strava Gear Management App
-Elevate your Strava experience with this intuitive Dash-powered web application. Simplify gear management and ensure accurate logs. [GitHub](https://github.com/Lancelot-d/ChooseYourShoes)
+### AutoREADME
+Automate your GitHub README with ease. [**Learn more**](https://github.com/Lancelot-d/AutoREADME)
+* Skill: GitHub API, Automation
+* Link: https://github.com/Lancelot-d/AutoREADME
 
-### FinBot: Virtual Assistant for Personal Finance
-Get personalized financial advice from Reddit data. Make informed decisions on budgeting, saving, investing, taxes, and retirement planning. [GitHub](https://github.com/Lancelot-d/FinBot)
+### ChooseYourShoes
+Enhance your Strava experience with this intuitive web application. [**Learn more**](https://github.com/Lancelot-d/ChooseYourShoes)
+* Skill: Dash, Web Development
+* Link: https://github.com/Lancelot-d/ChooseYourShoes
 
-### AutomatedLanguageProcessing: Deep Learning for Text Analysis
-Unlock the power of deep learning to find synonyms in texts. Explore the possibilities of natural language processing. [GitHub](https://github.com/Lancelot-d/AutomatedLanguageProcessing)
+### FinBot
+Get personalized financial advice from a virtual assistant powered by Reddit data. [**Learn more**](https://github.com/Lancelot-d/FinBot)
+* Skill: Natural Language Processing (NLP), Virtual Assistant
+* Link: https://github.com/Lancelot-d/FinBot
 
-**Get in Touch 📲**
-------------------
+### AutomatedLanguageProcessing
+Discover synonyms in texts using deep learning algorithms. [**Learn more**](https://github.com/Lancelot-d/AutomatedLanguageProcessing)
+* Skill: Deep Learning, NLP
+* Link: https://github.com/Lancelot-d/AutomatedLanguageProcessing
 
-Want to collaborate or discuss a project idea? Connect with me on LinkedIn: [https://www.linkedin.com/in/lancelot-domart-83b762204/](https://www.linkedin.com/in/lancelot-domart-83b762204/)
+**Get in Touch**
+--------------
+
+Want to collaborate or discuss a project idea? Let's connect on LinkedIn: [**https://www.linkedin.com/in/lancelot-domart-83b762204/**](https://www.linkedin.com/in/lancelot-domart-83b762204/)
