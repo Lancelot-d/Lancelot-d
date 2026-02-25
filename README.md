@@ -10,31 +10,21 @@ I'm a passionate software developer with a love for automation. I believe in usi
 --------------
 
 ### SignalFromNoise
-Extract insights from Reddit discussions and receive summaries via email. [**Learn more**](https://github.com/Lancelot-d/SignalFromNoise)
-* Skill: Natural Language Processing (NLP), Email Automation
-* Link: https://github.com/Lancelot-d/SignalFromNoise
+Extract insights from Reddit discussions and receive summaries via email. [GitHub](https://github.com/Lancelot-d/SignalFromNoise) | Python, Reddit API
 
 ### AutoREADME
-Automate your GitHub README with ease. [**Learn more**](https://github.com/Lancelot-d/AutoREADME)
-* Skill: GitHub API, Automation
-* Link: https://github.com/Lancelot-d/AutoREADME
+Automate your GitHub README with ease. [GitHub](https://github.com/Lancelot-d/AutoREADME) | Python, GitHub API
 
 ### ChooseYourShoes
-Enhance your Strava experience with this intuitive web application. [**Learn more**](https://github.com/Lancelot-d/ChooseYourShoes)
-* Skill: Dash, Web Development
-* Link: https://github.com/Lancelot-d/ChooseYourShoes
+Enhance your Strava experience with this intuitive web application. [GitHub](https://github.com/Lancelot-d/ChooseYourShoes) | Dash, Python
 
 ### FinBot
-Get personalized financial advice from a virtual assistant powered by Reddit data. [**Learn more**](https://github.com/Lancelot-d/FinBot)
-* Skill: Natural Language Processing (NLP), Virtual Assistant
-* Link: https://github.com/Lancelot-d/FinBot
+Get personalized financial advice from Reddit data. [GitHub](https://github.com/Lancelot-d/FinBot) | Python, Reddit API
 
 ### AutomatedLanguageProcessing
-Discover synonyms in texts using deep learning algorithms. [**Learn more**](https://github.com/Lancelot-d/AutomatedLanguageProcessing)
-* Skill: Deep Learning, NLP
-* Link: https://github.com/Lancelot-d/AutomatedLanguageProcessing
+Discover synonyms in texts using deep learning algorithms. [GitHub](https://github.com/Lancelot-d/AutomatedLanguageProcessing) | Python, TensorFlow
 
 **Get in Touch**
 --------------
 
-Want to collaborate or discuss a project idea? Let's connect on LinkedIn: [**https://www.linkedin.com/in/lancelot-domart-83b762204/**](https://www.linkedin.com/in/lancelot-domart-83b762204/)
+Want to collaborate or discuss a project idea? Let's connect on LinkedIn: [https://www.linkedin.com/in/lancelot-domart-83b762204/](https://www.linkedin.com/in/lancelot-domart-83b762204/)
