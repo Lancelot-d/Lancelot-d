@@ -6,25 +6,25 @@ Software Developer | Automation Enthusiast
 
 I'm a passionate software developer with a love for automation. I believe in using technology to simplify complex tasks and make a positive impact on people's lives.
 
-**My Projects**
---------------
+**Featured Projects**
+--------------------
 
 ### SignalFromNoise
-Extract insights from Reddit discussions and receive summaries via email. [GitHub](https://github.com/Lancelot-d/SignalFromNoise) | Python, Reddit API
+Extract insights from Reddit discussions and receive summaries via email. Built with Python and leveraging Reddit's API. [GitHub](https://github.com/Lancelot-d/SignalFromNoise)
 
 ### AutoREADME
-Automate your GitHub README with ease. [GitHub](https://github.com/Lancelot-d/AutoREADME) | Python, GitHub API
+Automate your GitHub README with ease. A simple yet powerful tool to streamline your profile. [GitHub](https://github.com/Lancelot-d/AutoREADME)
 
 ### ChooseYourShoes
-Enhance your Strava experience with this intuitive web application. [GitHub](https://github.com/Lancelot-d/ChooseYourShoes) | Dash, Python
+Elevate your Strava experience with this intuitive Dash-powered web app. Simplify gear management and ensure accurate logs. [GitHub](https://github.com/Lancelot-d/ChooseYourShoes)
 
 ### FinBot
-Get personalized financial advice from Reddit data. [GitHub](https://github.com/Lancelot-d/FinBot) | Python, Reddit API
+Get personalized financial advice from Reddit data. Make informed decisions on budgeting, saving, investing, and more. [GitHub](https://github.com/Lancelot-d/FinBot)
 
 ### AutomatedLanguageProcessing
-Discover synonyms in texts using deep learning algorithms. [GitHub](https://github.com/Lancelot-d/AutomatedLanguageProcessing) | Python, TensorFlow
+Unlock the power of deep learning to find synonyms in texts. Explore the possibilities of AI-driven language processing. [GitHub](https://github.com/Lancelot-d/AutomatedLanguageProcessing)
 
 **Get in Touch**
---------------
+----------------
 
 Want to collaborate or discuss a project idea? Let's connect on LinkedIn: [https://www.linkedin.com/in/lancelot-domart-83b762204/](https://www.linkedin.com/in/lancelot-domart-83b762204/)
