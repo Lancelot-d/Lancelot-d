@@ -1,27 +1,30 @@
 **👋 Hi, I'm Lancelot Domart**
 ==========================
 
-Software developer with a passion for automation and innovation. I'm always on the lookout for new challenges and opportunities to push the boundaries of what's possible.
+Software Developer | Automation Enthusiast
+------------------------------------------
+
+Welcome to my GitHub profile! I'm a passionate software developer with a love for automation. I'm always on the lookout for innovative ways to simplify complex tasks and make a meaningful impact.
 
 **Featured Projects**
 --------------------
 
 ### SignalFromNoise
-Extract insights from Reddit discussions and receive summaries via email. Built with Python and leveraging Reddit's API. [GitHub](https://github.com/Lancelot-d/SignalFromNoise)
+Extract insights from Reddit discussions and receive summaries via email. Built with Python and leveraging Reddit API. [GitHub](https://github.com/Lancelot-d/SignalFromNoise)
 
 ### AutoREADME
-Automate your GitHub README with ease. A simple yet powerful tool for developers. [GitHub](https://github.com/Lancelot-d/AutoREADME)
+Automate your GitHub README with ease. A simple yet powerful tool to streamline your profile. [GitHub](https://github.com/Lancelot-d/AutoREADME)
 
 ### ChooseYourShoes
-Elevate your Strava experience with this intuitive Dash-powered web application. Simplify gear management and stay on top of your activity logs. [GitHub](https://github.com/Lancelot-d/ChooseYourShoes)
+Elevate your Strava experience with this intuitive Dash-powered web app. Simplify gear management and ensure accurate logs. [GitHub](https://github.com/Lancelot-d/ChooseYourShoes)
 
 ### FinBot
-Get personalized financial advice from a virtual assistant powered by Reddit data. Make informed decisions on budgeting, saving, and investing. [GitHub](https://github.com/Lancelot-d/FinBot)
+Get personalized financial advice from Reddit data. LOG791's virtual assistant helps with budgeting, saving, investing, and more. [GitHub](https://github.com/Lancelot-d/FinBot)
 
 ### AutomatedLanguageProcessing
-Unlock the power of deep learning algorithms to find synonyms in texts. Explore the possibilities of natural language processing. [GitHub](https://github.com/Lancelot-d/AutomatedLanguageProcessing)
+Unlock the power of deep learning for text analysis. Find synonyms and enhance language processing capabilities. [GitHub](https://github.com/Lancelot-d/AutomatedLanguageProcessing)
 
 **Get in Touch**
----------------
+----------------
 
-Want to collaborate or discuss a project idea? Let's connect on LinkedIn: [https://www.linkedin.com/in/lancelot-domart-83b762204/](https://www.linkedin.com/in/lancelot-domart-83b762204/)
+Want to collaborate or discuss a project idea? Connect with me on LinkedIn: [https://www.linkedin.com/in/lancelot-domart-83b762204/](https://www.linkedin.com/in/lancelot-domart-83b762204/)
