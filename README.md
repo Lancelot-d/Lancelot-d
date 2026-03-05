@@ -1,46 +1,30 @@
-**Welcome to My GitHub Profile! 🚀**
-=====================================
+**👋 Hi, I'm Lancelot Domart**
+==========================
 
-Hi, I'm Lancelot Domart, a passionate software developer with a love for automation. I'm always on the lookout for innovative ways to simplify complex tasks and make a meaningful impact. When I'm not coding, you can find me exploring new ideas or learning from the latest advancements in the tech world.
+Software Developer | Automation Enthusiast
+--------------------------------------------
 
-**Featured Projects 🎉**
-------------------------
+I'm a passionate software developer with a love for automation. I believe in using technology to simplify complex tasks and make a positive impact on people's lives.
 
-### SignalFromNoise: Reddit Idea Extraction and Summarization Service
+**Featured Projects**
+--------------------
 
-* Extract and summarize Reddit ideas with ease, delivered straight to your inbox.
-* Built with Python and leveraging Reddit's API.
-* [Check it out on GitHub](https://github.com/Lancelot-d/SignalFromNoise)
+### SignalFromNoise
+Extract insights from Reddit discussions and receive summaries via email. [Python, API Integration](https://github.com/Lancelot-d/SignalFromNoise)
 
-### AutoREADME: Your Personalized GitHub README Generator
+### AutoREADME
+Automate your GitHub README with ease. [Python, GitHub API](https://github.com/Lancelot-d/AutoREADME)
 
-* Create a professional and engaging GitHub README in seconds.
-* Built with Python and utilizing GitHub's API.
-* [Get started with AutoREADME](https://github.com/Lancelot-d/AutoREADME)
+### ChooseYourShoes
+Enhance your Strava experience with this intuitive web application. [Dash, Python, API Integration](https://github.com/Lancelot-d/ChooseYourShoes)
 
-### ChooseYourShoes: Simplify Your Strava Experience
+### FinBot
+Get personalized financial advice from a virtual assistant powered by Reddit data. [Python, API Integration, Natural Language Processing](https://github.com/Lancelot-d/FinBot)
 
-* A sleek and intuitive Dash-powered web application for Strava enthusiasts.
-* Easily manage and switch your activity gear with accuracy and ease.
-* [Explore ChooseYourShoes on GitHub](https://github.com/Lancelot-d/ChooseYourShoes)
+### AutomatedLanguageProcessing
+Discover synonyms in texts using deep learning algorithms. [Python, Deep Learning, NLP](https://github.com/Lancelot-d/AutomatedLanguageProcessing)
 
-### FinBot: Your Virtual Assistant for Financial Advice
+**Get in Touch**
+----------------
 
-* A LOG791-powered virtual assistant providing personalized financial guidance.
-* Get informed decisions on budgeting, saving, investing, taxes, and retirement planning.
-* [Discover FinBot on GitHub](https://github.com/Lancelot-d/FinBot)
-
-### AutomatedLanguageProcessing: Deep Learning for Text Analysis
-
-* Unlock the power of deep learning algorithms for text analysis and synonym finding.
-* Built with Python and leveraging cutting-edge AI techniques.
-* [Check out AutomatedLanguageProcessing on GitHub](https://github.com/Lancelot-d/AutomatedLanguageProcessing)
-
-**Get in Touch 📲**
-------------------
-
-Want to collaborate, discuss a project, or simply say hello? Feel free to reach out to me on LinkedIn:
-
-[https://www.linkedin.com/in/lancelot-domart-83b762204/](https://www.linkedin.com/in/lancelot-domart-83b762204/)
-
-Thanks for visiting my GitHub profile! I look forward to connecting with you. 😊
+Want to collaborate or discuss a project idea? Let's connect on LinkedIn: [https://www.linkedin.com/in/lancelot-domart-83b762204/](https://www.linkedin.com/in/lancelot-domart-83b762204/)
