@@ -1,40 +1,27 @@
-**👋 Hi, I'm Lancelot Domart**
-==========================
+## 👋 About Me  
+Software developer with a passion for **automation** – turning repetitive tasks into smart, self‑running solutions.
 
-Software Developer | Automation Enthusiast
-------------------------------------------
+## 🛠️ Projects  
 
-Welcome to my GitHub profile! I'm a passionate software developer with a love for automation. I'm always on the lookout for innovative ways to simplify complex tasks and make a meaningful impact.
+### AutoREADME  
+- **Description:** Automatically generates polished README files for GitHub repos using templates and repo metadata.  
+- **Skills:** Python, Jinja2 templating, GitHub Actions  
+- **Link:** https://github.com/Lancelot-d/AutoREADME  
 
-**Featured Projects**
---------------------
+### FinBot  
+- **Description:** Reddit‑powered virtual assistant that delivers personalized financial advice on budgeting, saving, investing, taxes, and retirement.  
+- **Skills:** Natural Language Processing, Flask, Reddit API, Docker  
+- **Link:** https://github.com/Lancelot-d/FinBot  
 
-### ChooseYourShoes 🏃‍♂️💻
-A sleek and intuitive Dash-powered web application designed to enhance your Strava experience. [Learn more](https://github.com/Lancelot-d/ChooseYourShoes)
-* Skills: Dash, Python, Web Development
-* Link: https://github.com/Lancelot-d/ChooseYourShoes
+### ChooseYourShoes  
+- **Description:** Dash‑based web app that simplifies gear management for Strava activities, keeping your equipment logs accurate and up‑to‑date.  
+- **Skills:** Python, Dash, Plotly, Pandas, RESTful APIs  
+- **Link:** https://github.com/Lancelot-d/ChooseYourShoes  
 
-### FinBot 💸🤖
-A virtual assistant powered by Reddit data to provide personalized financial advice. [Learn more](https://github.com/Lancelot-d/FinBot)
-* Skills: Natural Language Processing, Reddit API, Python
-* Link: https://github.com/Lancelot-d/FinBot
+### AutomatedLanguageProcessing  
+- **Description:** Deep‑learning model that extracts contextual synonyms from large text corpora.  
+- **Skills:** TensorFlow, Word2Vec/BERT embeddings, CUDA, Python  
+- **Link:** https://github.com/Lancelot-d/AutomatedLanguageProcessing  
 
-### SignalFromNoise 📣💻
-A Reddit idea extraction and summarization service with email delivery. [Learn more](https://github.com/Lancelot-d/SignalFromNoise)
-* Skills: Reddit API, Natural Language Processing, Email Delivery
-* Link: https://github.com/Lancelot-d/SignalFromNoise
-
-### AutoREADME 🤖💻
-A GitHub project that generates a professional README profile section. [Learn more](https://github.com/Lancelot-d/AutoREADME)
-* Skills: GitHub Actions, Python, Markdown
-* Link: https://github.com/Lancelot-d/AutoREADME
-
-### AutomatedLanguageProcessing 🤖💻
-Deep learning algorithms that find synonyms in texts. [Learn more](https://github.com/Lancelot-d/AutomatedLanguageProcessing)
-* Skills: Deep Learning, Natural Language Processing, Python
-* Link: https://github.com/Lancelot-d/AutomatedLanguageProcessing
-
-**Get in Touch**
-----------------
-
-Want to collaborate or discuss a project idea? Feel free to reach out to me on LinkedIn: [https://www.linkedin.com/in/lancelot-domart-83b762204/](https://www.linkedin.com/in/lancelot-domart-83b762204/)
+## 📬 Contact  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/lancelot-domart-83b762204/)
