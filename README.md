@@ -1,27 +1,35 @@
-## 👋 About Me  
-Software developer with a passion for **automation** – turning repetitive tasks into smart, self‑running solutions.
+# 👋 About Me  
 
-## 🛠️ Projects  
+I'm a **software developer passionate about automation**, turning repetitive tasks into smart, self‑healing solutions that boost productivity and code quality.  
 
-### AutoREADME  
-- **Description:** Automatically generates polished README files for GitHub repos using templates and repo metadata.  
-- **Skills:** Python, Jinja2 templating, GitHub Actions  
-- **Link:** https://github.com/Lancelot-d/AutoREADME  
+---
 
-### FinBot  
-- **Description:** Reddit‑powered virtual assistant that delivers personalized financial advice on budgeting, saving, investing, taxes, and retirement.  
-- **Skills:** Natural Language Processing, Flask, Reddit API, Docker  
-- **Link:** https://github.com/Lancelot-d/FinBot  
+## 🚀 Projects  
 
-### ChooseYourShoes  
-- **Description:** Dash‑based web app that simplifies gear management for Strava activities, keeping your equipment logs accurate and up‑to‑date.  
-- **Skills:** Python, Dash, Plotly, Pandas, RESTful APIs  
-- **Link:** https://github.com/Lancelot-d/ChooseYourShoes  
+- **🤖 AutoREADME**  
+  - *Description:* Automates the generation of professional README files for GitHub repos using customizable templates and repository metadata.  
+  - *Skills:* Python, Jinja2, GitHub Actions  
+  - *Link:* https://github.com/Lancelot-d/AutoREADME  
 
-### AutomatedLanguageProcessing  
-- **Description:** Deep‑learning model that extracts contextual synonyms from large text corpora.  
-- **Skills:** TensorFlow, Word2Vec/BERT embeddings, CUDA, Python  
-- **Link:** https://github.com/Lancelot-d/AutomatedLanguageProcessing  
+- **💬 FinBot**  
+  - *Description:* A virtual assistant (LOG791) that mines Reddit data to give personalized financial advice on budgeting, saving, investing, taxes, and retirement planning.  
+  - *Skills:* NLP, Reddit API, Flask, Docker  
+  - *Link:* https://github.com/Lancelot-d/FinBot  
 
-## 📬 Contact  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/lancelot-domart-83b762204/)
+- **👟 ChooseYourShoes**  
+  - *Description:* A sleek Dash‑powered web app that syncs with Strava to help athletes manage and switch gear logs effortlessly.  
+  - *Skills:* Python, Dash, Plotly, Strava API  
+  - *Link:* https://github.com/Lancelot-d/ChooseYourShoes  
+
+- **🔤 AutomatedLanguageProcessing**  
+  - *Description:* Deep‑learning model that extracts synonyms from raw text to enrich content understanding and generation pipelines.  
+  - *Skills:* TensorFlow/PyTorch, Word embeddings, Text preprocessing  
+  - *Link:* https://github.com/Lancelot-d/AutomatedLanguageProcessing  
+
+---
+
+## 📫 Contact  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/lancelot-domart-83b762204/)  
+
+Feel free to reach out for collaborations, questions, or just a chat about tech and automation! 🚀
