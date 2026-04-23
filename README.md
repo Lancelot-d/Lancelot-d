@@ -1,21 +1,35 @@
-Hi, I'm **Lancelot Domart** 👋 – a software developer who loves turning ideas into automated solutions.  
-When I'm not coding, you’ll find me tinkering with workflows that make life (and work) a little smoother.
+## 👋 About Me  
+I’m a **software developer passionate about automation** – turning repetitive tasks into smart, self‑running solutions.  
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects  
 
-| Project | What it does | Core skills | Link |
-|---------|--------------|-------------|------|
-| **FinBot** | Virtual assistant powered by Reddit data that gives personalized financial advice (budgeting, saving, investing, taxes, retirement). | Python • NLP • Reddit API • Flask | [GitHub](https://github.com/Lancelot-d/FinBot) |
-| **ChooseYourShoes** | Dash‑based web app that lets Strava athletes manage and switch gear logs effortlessly. | Python • Dash • Plotly • Pandas | [GitHub](https://github.com/Lancelot-d/ChooseYourShoes) |
-| **AutoREADME** | Automatically generates polished README files for GitHub repos using templates and repo metadata. | Python • Jinja2 • GitHub Actions • CLI | [GitHub](https://github.com/Lancelot-d/AutoREADME) |
-| **AutomatedLanguageProcessing** | Deep‑learning model that extracts synonyms from raw text to enrich language understanding. | Python • TensorFlow/Keras • Word Embeddings • NLP | [GitHub](https://github.com/Lancelot-d/AutomatedLanguageProcessing) |
+### FinBot  
+Virtual assistant powered by Reddit data to provide personalized financial advice (budgeting, saving, investing, taxes, retirement).  
+**Skills:** Python, NLP, Reddit API, Flask  
+[GitHub](https://github.com/Lancelot-d/FinBot)  
+
+### ChooseYourShoes  
+Sleek Dash‑powered web app that simplifies gear management for Strava activities (running, cycling, multi‑sport).  
+**Skills:** Python, Dash, Plotly, Strava API  
+[GitHub](https://github.com/Lancelot-d/ChooseYourShoes)  
+
+### AutoREADME  
+Automated generation of professional README files for GitHub repositories.  
+**Skills:** Python, Jinja2 templating, CLI design  
+[GitHub](https://github.com/Lancelot-d/AutoREADME)  
+
+### AutomatedLanguageProcessing  
+Deep‑learning models that detect and suggest synonyms within text bodies.  
+**Skills:** TensorFlow/Keras, Word embeddings, NLP  
+[GitHub](https://github.com/Lancelot-d/AutomatedLanguageProcessing)  
 
 ---
 
-## 📫 Get in Touch
+## 📫 Contact  
+[LinkedIn](https://www.linkedin.com/in/lancelot-domart-83b762204/)  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/lancelot-domart-83b762204/)
+---  
 
-Feel free to drop a message or check out my repos – I’m always open to collaboration and new automation challenges! 🚀
+*Keep building, keep automating.* 🚀
