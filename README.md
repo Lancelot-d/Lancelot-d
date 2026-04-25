@@ -1,20 +1,20 @@
-## 👋 About Me  
-I’m a software developer who loves turning repetitive tasks into automated solutions. Passionate about building tools that simplify life—whether it’s finance, fitness tracking, or code documentation.
+# About Me  
 
----
+👋 **Software Developer** passionate about turning repetitive tasks into automated solutions. I love building tools that make life easier—whether it’s a virtual advisor, a gear‑tracker, or code that writes itself.  
+
+---  
 
 ## 🚀 Projects  
 
-| Project | Description | Skills | Link |
-|---------|-------------|--------|------|
-| **FinBot** | Virtual assistant powered by Reddit data that delivers personalized financial advice on budgeting, saving, investing, taxes, and retirement. | Python • NLP • Reddit API • Flask | [GitHub](https://github.com/Lancelot-d/FinBot) |
-| **ChooseYourShoes** | Sleek Dash‑based web app that lets Strava athletes manage and switch gear effortlessly, keeping activity logs accurate and up‑to‑date. | Python • Dash • Plotly • Pandas | [GitHub](https://github.com/Lancelot-d/ChooseYourShoes) |
-| **AutoREADME** | Auto‑generates polished README files for GitHub repos, saving developers time on documentation. | Python • Jinja2 • CLI • GitHub API | [GitHub](https://github.com/Lancelot-d/AutoREADME) |
-| **AutomatedLanguageProcessing** | Deep‑learning model that extracts synonyms from raw text to enrich language understanding and NLP pipelines. | Python • TensorFlow • Word2Vec • SpaCy | [GitHub](https://github.com/Lancelot-d/AutomatedLanguageProcessing) |
+| Project | What it does & key skills | Link |
+|---------|---------------------------|------|
+| **FinBot** | Virtual assistant that pulls Reddit data to give personalized financial advice (budgeting, saving, investing, taxes, retirement). | [GitHub](https://github.com/Lancelot-d/FinBot) |
+| **ChooseYourShoes** | Dash‑powered web app that syncs with Strava to track and switch activity gear for runners, cyclists, and multisport athletes. | [GitHub](https://github.com/Lancelot-d/ChooseYourShoes) |
+| **AutoREADME** | Automates the creation of polished README files for GitHub repos using templating and metadata extraction. | [GitHub](https://github.com/Lancelot-d/AutoREADME) |
+| **AutomatedLanguageProcessing** | Deep‑learning model that extracts synonyms from raw text to enrich NLP pipelines. | [GitHub](https://github.com/Lancelot-d/AutomatedLanguageProcessing) |
 
----
+---  
 
-## 📬 Get in Touch  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lancelot--Domart-blue?logo=linkedin)](https://www.linkedin.com/in/lancelot-domart-83b762204/)  
+## 📬 Connect  
 
-*Feel free to drop a message or connect—I’m always excited to discuss automation, open‑source collaborations, or the next cool project.* 🚀
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/lancelot-domart-83b762204/)
