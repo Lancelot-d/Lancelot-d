@@ -1,22 +1,22 @@
-## 👋 Hi, I'm Lancelot – Software Developer & Automation Enthusiast  
+# 👋 Hi, I'm Lancelot – Software Developer & Automation Enthusiast  
 
-I thrive on building smart, automated solutions that simplify everyday challenges. From financial bots to gear‑tracking dashboards, I love turning ideas into clean, maintainable code.
-
----
-
-### 🚀 Projects at a Glance  
-
-| Project | What it does | Tech / Skill | Link |
-|---------|--------------|--------------|------|
-| **FinBot** | Reddit‑powered virtual assistant delivering personalized budgeting, saving, investing, tax & retirement advice. | Python • NLP • Reddit API • Flask | [GitHub](https://github.com/Lancelot-d/FinBot) |
-| **ChooseYourShoes** | Dash web app that streamlines gear management for Strava activities (running, cycling, multisport). | Python • Dash • Plotly • Pandas | [GitHub](https://github.com/Lancelot-d/ChooseYourShoes) |
-| **AutoREADME** | Auto‑generates polished README files for GitHub repos using repo metadata. | Python • Jinja2 • GitHub API • CLI | [GitHub](https://github.com/Lancelot-d/AutoREADME) |
-| **AutomatedLanguageProcessing** | Deep‑learning model that extracts contextual synonyms from raw text. | Python • TensorFlow/Keras • Word Embeddings • NLP | [GitHub](https://github.com/Lancelot-d/AutomatedLanguageProcessing) |
+I love turning repetitive tasks into smart, automated solutions. From building AI‑driven assistants to streamlining developer workflows, I’m always looking for ways to make code work *for* me.
 
 ---
 
-### 📬 Let's Connect  
+## 🚀 Showcase Projects  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lancelot-domart-83b762204/)  
+| Project | Description | Skills Used | Link |
+|---------|-------------|-------------|------|
+| **FinBot** | Virtual assistant powered by Reddit data that gives personalized financial advice on budgeting, saving, investing, taxes, and retirement. | Python • NLP • Reddit API • Machine Learning | [github.com/Lancelot-d/FinBot](https://github.com/Lancelot-d/FinBot) |
+| **ChooseYourShoes** | Dash‑powered web app that simplifies gear tracking for Strava activities, keeping your running, cycling, or multi‑sport equipment logs accurate. | Python • Dash • Plotly • Strava API | [github.com/Lancelot-d/ChooseYourShoes](https://github.com/Lancelot-d/ChooseYourShoes) |
+| **AutoREADME** | Automatically generates polished README files for GitHub repositories, saving you time on documentation. | Python • Jinja2 • GitHub API • CLI | [github.com/Lancelot-d/AutoREADME](https://github.com/Lancelot-d/AutoREADME) |
+| **AutomatedLanguageProcessing** | Deep‑learning model that extracts synonyms from raw text, enabling smarter text augmentation and search. | Python • TensorFlow • Word2Vec • NLP | [github.com/Lancelot-d/AutomatedLanguageProcessing](https://github.com/Lancelot-d/AutomatedLanguageProcessing) |
 
-Feel free to reach out for collaborations, questions, or just a chat about the next automation breakthrough! 🚀
+---
+
+## 📬 Let's Connect  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/lancelot-domart-83b762204/)  
+
+Feel free to reach out for collaborations, questions, or just a chat about automation and software development! 🚀
