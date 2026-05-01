@@ -1,5 +1,5 @@
 ## 👋 About Me  
-Software developer **passionate about automation** – I build tools that turn repetitive tasks into smart, data‑driven workflows.
+I’m a software developer passionate about **automation**—turning repetitive tasks into elegant, self‑running solutions.
 
 ---
 
@@ -7,12 +7,12 @@ Software developer **passionate about automation** – I build tools that turn r
 
 | Project | Description & Skills | Link |
 |---|---|---|
-| **FinBot** | Virtual assistant powered by Reddit data that gives personalized advice on budgeting, saving, investing, taxes & retirement. <br>*Skills:* Python, NLP, Reddit API, Flask/Dash | [GitHub](https://github.com/Lancelot-d/FinBot) |
-| **ChooseYourShoes** | Dash‑powered web app that simplifies gear tracking for Strava activities (running, cycling, multi‑sport). <br>*Skills:* Python, Dash, Plotly, Strava API | [GitHub](https://github.com/Lancelot-d/ChooseYourShoes) |
-| **AutoREADME** | Automated generator that creates polished README files from repository metadata. <br>*Skills:* Python, Jinja2, GitHub Actions | [GitHub](https://github.com/Lancelot-d/AutoREADME) |
-| **AutomatedLanguageProcessing** | Deep‑learning model that extracts synonyms from text to boost semantic understanding. <br>*Skills:* Python, TensorFlow/Keras, Word embeddings, NLP | [GitHub](https://github.com/Lancelot-d/AutomatedLanguageProcessing) |
+| **FinBot** (LOG791) | Virtual assistant that pulls Reddit data to give personalized financial advice on budgeting, saving, investing, taxes, and retirement. <br>**Skills:** Python, NLP, Reddit API, Flask | [GitHub](https://github.com/Lancelot-d/FinBot) |
+| **ChooseYourShoes** | Dash‑powered web app that simplifies gear tracking for Strava activities (running, cycling, multi‑sport). Keeps your shoe log accurate and up‑to‑date. <br>**Skills:** Python, Dash, Plotly, Pandas | [GitHub](https://github.com/Lancelot-d/ChooseYourShoes) |
+| **AutoREADME** | Automatically generates polished README files for GitHub repos using templates and repo metadata. <br>**Skills:** Python, Jinja2, GitHub API, CLI | [GitHub](https://github.com/Lancelot-d/AutoREADME) |
+| **AutomatedLanguageProcessing** | Deep‑learning model that extracts synonyms from raw text to enrich vocabulary and improve semantic search. <br>**Skills:** TensorFlow/Keras, Word2Vec, NLP, Python | [GitHub](https://github.com/Lancelot-d/AutomatedLanguageProcessing) |
 
 ---
 
-## 📫 Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lancelot%20Domart-blue?logo=linkedin)](https://www.linkedin.com/in/lancelot-domart-83b762204/)
+## 📬 Get in Touch  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/lancelot-domart-83b762204/)
