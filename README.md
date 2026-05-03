@@ -1,19 +1,37 @@
-# 👋 About Me  
-Hi, I'm **Lancelot Domart** – a software developer who loves building automation‑focused solutions.
+# 👋 Hi, I'm Lancelot  
 
----
+I am a **software developer** who loves **automation** – turning repetitive tasks into smart, reliable solutions.  
+
+---  
 
 ## 🚀 Projects  
 
-| Project | Description | Skills | Link |
-|---|---|---|---|
-| **FinBot** | Virtual assistant powered by Reddit data that gives personalized financial advice (budgeting, saving, investing, taxes, retirement). | Python • Reddit API • NLP • Flask | [GitHub](https://github.com/Lancelot-d/FinBot) |
-| **ChooseYourShoes** | Dash‑based web app to track and switch Strava gear for runners, cyclists & multi‑sport athletes. | Python • Dash • Plotly • Strava API | [GitHub](https://github.com/Lancelot-d/ChooseYourShoes) |
-| **AutoREADME** | Auto‑generates polished README files for GitHub repos using repo metadata. | Python • Jinja2 • GitHub CLI | [GitHub](https://github.com/Lancelot-d/AutoREADME) |
-| **AutomatedLanguageProcessing** | Deep‑learning model that extracts synonyms from raw text to enrich vocabularies. | Python • TensorFlow • Word2Vec • NLP | [GitHub](https://github.com/Lancelot-d/AutomatedLanguageProcessing) |
+### FinBot  
+Virtual assistant powered by Reddit data to give personalized advice on budgeting, saving, investing, taxes, and retirement.  
+**Skills:** Python, Reddit API, NLP, Flask  
+[GitHub](https://github.com/Lancelot-d/FinBot)  
 
----
+### ChooseYourShoes  
+Sleek Dash‑powered web app that simplifies managing and switching activity gear on Strava for runners, cyclists, and multi‑sport athletes.  
+**Skills:** Python, Dash, Strava API, Plotly  
+[GitHub](https://github.com/Lancelot-d/ChooseYourShoes)  
 
-## 📬 Contact  
+### AutoREADME  
+Automated README generator that scans a repo and creates a polished markdown file with badges, sections, and links.  
+**Skills:** Python, Jinja2 templating, GitHub Actions  
+[GitHub](https://github.com/Lancelot-d/AutoREADME)  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/lancelot-domart-83b762204/)
+### AutomatedLanguageProcessing  
+Deep‑learning model that extracts contextual synonyms from large text corpora to enhance NLP pipelines.  
+**Skills:** Python, TensorFlow/PyTorch, Word embeddings, spaCy  
+[GitHub](https://github.com/Lancelot-d/AutomatedLanguageProcessing)  
+
+---  
+
+## 📫 Let's Connect  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lancelot-domart-83b762204/)  
+
+---  
+
+*Built with ❤️ for developers who automate.*
