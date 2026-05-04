@@ -1,37 +1,31 @@
-# 👋 Hi, I'm Lancelot  
+## 👋 About Me  
+I’m a software developer who loves turning repetitive tasks into automated solutions – building tools that save time, improve accuracy, and make life a little smarter.
 
-I am a **software developer** who loves **automation** – turning repetitive tasks into smart, reliable solutions.  
+---
 
----  
-
-## 🚀 Projects  
+## 🛠️ Projects  
 
 ### FinBot  
-Virtual assistant powered by Reddit data to give personalized advice on budgeting, saving, investing, taxes, and retirement.  
-**Skills:** Python, Reddit API, NLP, Flask  
-[GitHub](https://github.com/Lancelot-d/FinBot)  
+- **Description:** Virtual assistant powered by Reddit data that offers personalized financial advice on budgeting, saving, investing, taxes, and retirement.  
+- **Skills:** Python, NLP, Reddit API, Flask, Docker  
+- **Link:** [https://github.com/Lancelot-d/FinBot](https://github.com/Lancelot-d/FinBot)
 
 ### ChooseYourShoes  
-Sleek Dash‑powered web app that simplifies managing and switching activity gear on Strava for runners, cyclists, and multi‑sport athletes.  
-**Skills:** Python, Dash, Strava API, Plotly  
-[GitHub](https://github.com/Lancelot-d/ChooseYourShoes)  
+- **Description:** Dash‑powered web app that syncs with Strava to help you track, manage, and switch activity gear effortlessly.  
+- **Skills:** Python, Dash, Plotly, Pandas, Strava API  
+- **Link:** [https://github.com/Lancelot-d/ChooseYourShoes](https://github.com/Lancelot-d/ChooseYourShoes)
 
 ### AutoREADME  
-Automated README generator that scans a repo and creates a polished markdown file with badges, sections, and links.  
-**Skills:** Python, Jinja2 templating, GitHub Actions  
-[GitHub](https://github.com/Lancelot-d/AutoREADME)  
+- **Description:** Auto‑generates polished README files for GitHub repositories using repository metadata and templates.  
+- **Skills:** Python, Jinja2, GitHub Actions, CLI  
+- **Link:** [https://github.com/Lancelot-d/AutoREADME](https://github.com/Lancelot-d/AutoREADME)
 
 ### AutomatedLanguageProcessing  
-Deep‑learning model that extracts contextual synonyms from large text corpora to enhance NLP pipelines.  
-**Skills:** Python, TensorFlow/PyTorch, Word embeddings, spaCy  
-[GitHub](https://github.com/Lancelot-d/AutomatedLanguageProcessing)  
+- **Description:** Deep‑learning model that extracts synonyms from raw text to enrich vocabulary and improve NLP pipelines.  
+- **Skills:** PyTorch, Transformers, Word2Vec, SpaCy  
+- **Link:** [https://github.com/Lancelot-d/AutomatedLanguageProcessing](https://github.com/Lancelot-d/AutomatedLanguageProcessing)
 
----  
+---
 
-## 📫 Let's Connect  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lancelot-domart-83b762204/)  
-
----  
-
-*Built with ❤️ for developers who automate.*
+## 📬 Contact  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lancelot%20Domart-blue?logo=linkedin)](https://www.linkedin.com/in/lancelot-domart-83b762204/)
