@@ -1,31 +1,33 @@
-# 👋 About Me  
-I’m a software developer passionate about automation — turning repetitive tasks into smart, self‑running solutions.
+## 👋 About Me  
+I’m a software developer passionate about automation – turning repetitive tasks into seamless, intelligent workflows.
 
 ---
 
-## 🛠️ Projects  
+## 🚀 Projects  
 
-### FinBot  
-Virtual assistant powered by Reddit data that offers personalized financial advice on budgeting, saving, investing, taxes, and retirement planning.  
-**Skills:** Python, Reddit API, NLP, Flask  
-[GitHub](https://github.com/Lancelot-d/FinBot)  
+- **FinBot** – LOG791  
+  *Virtual assistant powered by Reddit data that delivers personalized financial advice on budgeting, saving, investing, taxes, and retirement.*  
+  **Skills:** Python, Reddit API, NLP, Flask  
+  [GitHub](https://github.com/Lancelot-d/FinBot)  
 
-### ChooseYourShoes  
-Dash‑powered web app that simplifies managing and switching activity gear for Strava users, keeping gear logs accurate and up‑to‑date.  
-**Skills:** Python, Dash, Plotly, Strava API  
-[GitHub](https://github.com/Lancelot-d/ChooseYourShoes)  
+- **ChooseYourShoes**  
+  *Dash‑based web app that simplifies gear tracking for Strava activities, keeping your running, cycling, and multisport gear logs accurate.*  
+  **Skills:** Python, Dash, Pandas, Plotly  
+  [GitHub](https://github.com/Lancelot-d/ChooseYourShoes)  
 
-### AutoREADME  
-Automated tool that generates professional README files for GitHub repositories using project metadata.  
-**Skills:** Python, Jinja2 templating, CLI  
-[GitHub](https://github.com/Lancelot-d/AutoREADME)  
+- **AutoREADME**  
+  *Automatically generates polished README files for GitHub repositories using repo metadata and templates.*  
+  **Skills:** Python, Jinja2, GitHub Actions  
+  [GitHub](https://github.com/Lancelot-d/AutoREADME)  
 
-### AutomatedLanguageProcessing  
-Deep learning model that extracts synonyms from text to enhance language understanding and processing.  
-**Skills:** Python, TensorFlow/Keras, Word Embeddings, NLP  
-[GitHub](https://github.com/Lancelot-d/AutomatedLanguageProcessing)  
+- **AutomatedLanguageProcessing**  
+  *Deep‑learning model that extracts synonyms from raw text to improve semantic search and content enrichment.*  
+  **Skills:** TensorFlow, Word2Vec, Keras, spaCy  
+  [GitHub](https://github.com/Lancelot-d/AutomatedLanguageProcessing)  
 
 ---
 
-## 📫 Connect  
-[LinkedIn](https://www.linkedin.com/in/lancelot-domart-83b762204/)
+## 📬 Connect  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/lancelot-domart-83b762204/)  
+
+*Feel free to reach out for collaboration, questions, or just a friendly chat about code and automation.*
