@@ -1,22 +1,18 @@
-# 👋 About Me  
-
-I’m a software developer passionate about automating repetitive tasks and building tools that make life easier.  
-
----
-
-## 🚀 Projects  
-
-| Project | Description & Skills | Link |
-|---|---|---|
-| **FinBot** | Virtual assistant powered by Reddit data that delivers personalized financial advice on budgeting, saving, investing, taxes, and retirement. <br>**Skills:** Python, NLP, Reddit API, Flask | [GitHub](https://github.com/Lancelot-d/FinBot) |
-| **ChooseYourShoes** | Dash‑powered web app that simplifies gear tracking for Strava activities, keeping your running, cycling, or multi‑sport equipment logs accurate. <br>**Skills:** Python, Dash, Plotly, Pandas | [GitHub](https://github.com/Lancelot-d/ChooseYourShoes) |
-| **AutoREADME** | Automated generator that creates polished README files from repository metadata and code analysis. <br>**Skills:** Python, Jinja2 templating, GitHub Actions | [GitHub](https://github.com/Lancelot-d/AutoREADME) |
-| **AutomatedLanguageProcessing** | Deep‑learning model that extracts synonyms from text to improve content understanding and enrichment. <br>**Skills:** TensorFlow/Keras, Word2Vec, NLP | [GitHub](https://github.com/Lancelot-d/AutomatedLanguageProcessing) |
+## 👋 About Me  
+I'm a software developer passionate about building automation‑focused solutions that turn data into actionable insights.
 
 ---
 
-## 📬 Connect with Me  
+## 🚀 Featured Projects  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/lancelot-domart-83b762204/)  
+| Project | Description | Skills | Link |
+|---|---|---|---|
+| **FinBot** | Virtual assistant that leverages Reddit data to give personalized financial advice on budgeting, saving, investing, taxes, and retirement. | Python • Reddit API • NLP • Flask | [GitHub](https://github.com/Lancelot-d/FinBot) |
+| **ChooseYourShoes** | Dash‑powered web app that simplifies gear tracking for Strava activities, keeping your running, cycling, and multisport logs accurate. | Python • Dash • Plotly • Strava API | [GitHub](https://github.com/Lancelot-d/ChooseYourShoes) |
+| **AutoREADME** | Automates the creation of polished README files for GitHub repositories using templates and repo metadata. | Python • Jinja2 • GitHub API • CLI | [GitHub](https://github.com/Lancelot-d/AutoREADME) |
+| **AutomatedLanguageProcessing** | Deep‑learning model that extracts synonyms from raw text to enhance language understanding and search relevance. | Python • TensorFlow • Word2Vec • spaCy | [GitHub](https://github.com/Lancelot-d/AutomatedLanguageProcessing) |
 
-Feel free to drop a message or explore my repositories – I’m always open to collaboration and new ideas!
+---
+
+## 📬 Contact  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lancelot%20Domart-blue?logo=linkedin)](https://www.linkedin.com/in/lancelot-domart-83b762204/)
