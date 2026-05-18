@@ -1,33 +1,23 @@
-## 👋 Hi, I'm Lancelot Domart  
-Software developer passionate about **automation** – turning repetitive tasks into smart, self‑running solutions.
+## 👋 About Me  
+I’m a **software developer** passionate about **automation**, turning repetitive tasks into smart, self‑service solutions.
 
 ---
 
-## 🚀 Projects
+## 🚀 Projects  
 
-### FinBot  
-Virtual assistant powered by Reddit data that delivers personalized financial advice (budgeting, saving, investing, taxes, retirement).  
-**Skills:** Python, Reddit API, NLP, Flask  
-[GitHub Repo](https://github.com/Lancelot-d/FinBot)
-
-### ChooseYourShoes  
-Dash‑powered web app that simplifies gear tracking for Strava activities – keep your running, cycling, and multi‑sport equipment logs accurate.  
-**Skills:** Python, Dash, Pandas, Plotly, Strava API  
-[GitHub Repo](https://github.com/Lancelot-d/ChooseYourShoes)
-
-### AutoREADME  
-Automates the creation of polished README files for GitHub repositories using template‑driven generation.  
-**Skills:** Python, Jinja2, CLI, GitHub Actions  
-[GitHub Repo](https://github.com/Lancelot-d/AutoREADME)
-
-### AutomatedLanguageProcessing  
-Deep‑learning models that extract synonyms from raw text to enrich vocabularies and improve NLP pipelines.  
-**Skills:** PyTorch, Transformers, Word Embeddings, REST API  
-[GitHub Repo](https://github.com/Lancelot-d/AutomatedLanguageProcessing)
+| Project | Description | Skills | Link |
+|---------|-------------|--------|------|
+| **FinBot** | Virtual assistant that taps Reddit data to give personalized financial advice on budgeting, saving, investing, taxes & retirement. | Python, NLP, Reddit API, Streamlit | [GitHub](https://github.com/Lancelot-d/FinBot) |
+| **ChooseYourShoes** | Dash‑powered web app that simplifies gear tracking for Strava activities, keeping your running, cycling & multisport logs accurate. | Python, Dash, Pandas, Plotly | [GitHub](https://github.com/Lancelot-d/ChooseYourShoes) |
+| **AutoREADME** | Automatically generates polished README files for GitHub repos using repo metadata and templates. | Python, Jinja2, GitHub Actions | [GitHub](https://github.com/Lancelot-d/AutoREADME) |
+| **AutomatedLanguageProcessing** | Deep‑learning model that extracts synonymous phrases from large text corpora to improve semantic search. | TensorFlow, Word2Vec, Siamese Networks | [GitHub](https://github.com/Lancelot-d/AutomatedLanguageProcessing) |
 
 ---
 
-## 📫 Let's Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/lancelot-domart-83b762204/)  
+## 📬 Contact  
 
-*Feel free to reach out for collaborations, questions, or just a chat about code and automation!*
+[🔗 LinkedIn](https://www.linkedin.com/in/lancelot-domart-83b762204/)  
+
+---  
+
+*Feel free to explore the repositories and reach out for collaboration or questions!*
