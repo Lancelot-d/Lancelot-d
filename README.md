@@ -1,16 +1,21 @@
-## Hi, I'm Lancelot 👋  
-Software developer passionate about **automation** – turning repetitive tasks into seamless workflows.
+## 👋 About Me  
+I’m **Lancelot Domart**, a software developer who loves turning repetitive tasks into automated solutions. I enjoy building tools that make life easier—whether it’s a financial advisor bot, a gear‑tracker for athletes, or utilities that streamline everyday development workflows.  
 
-## 🚀 Projects  
+---
 
-- **FinBot** – Virtual assistant (LOG791) powered by Reddit data that delivers personalized financial advice on budgeting, saving, investing, taxes, and retirement. *Skills: Python, NLP, Reddit API, Streamlit* – [GitHub](https://github.com/Lancelot-d/FinBot)  
+## 🚀 Showcase  
 
-- **ChooseYourShoes** – Dash‑powered web app that syncs with Strava to simplify gear tracking for runners, cyclists, and multi‑sport athletes. *Skills: Python, Dash, Plotly, Strava API* – [GitHub](https://github.com/Lancelot-d/ChooseYourShoes)  
+| Project | What it does | Key skills | Link |
+|---|---|---|---|
+| **FinBot** | Virtual assistant powered by Reddit data that gives personalized financial advice on budgeting, saving, investing, taxes & retirement. | Python • NLP • Reddit API • Flask | [GitHub](https://github.com/Lancelot-d/FinBot) |
+| **ChooseYourShoes** | Dash‑powered web app that simplifies gear logging for Strava activities (running, cycling, multisport). | Python • Dash • Plotly • Pandas | [GitHub](https://github.com/Lancelot-d/ChooseYourShoes) |
+| **AutoREADME** | Automated README generator that scans a repo and creates a polished Markdown file with badges, sections & links. | Python • Jinja2 • GitPython • CLI | [GitHub](https://github.com/Lancelot-d/AutoREADME) |
+| **AutomatedLanguageProcessing** | Deep‑learning model that extracts synonyms from raw text to enrich vocabulary‑aware applications. | Python • TensorFlow/Keras • Word2Vec • spaCy | [GitHub](https://github.com/Lancelot-d/AutomatedLanguageProcessing) |
 
-- **AutoREADME** – Automated README generator that creates polished project docs from templates and repository metadata. *Skills: Python, Jinja2, GitHub Actions* – [GitHub](https://github.com/Lancelot-d/AutoREADME)  
+---
 
-- **AutomatedLanguageProcessing** – Deep‑learning pipeline that extracts synonyms from raw text to enrich vocabulary and boost NLP models. *Skills: TensorFlow/Keras, spaCy, Word2Vec* – [GitHub](https://github.com/Lancelot-d/AutomatedLanguageProcessing)  
+## 📬 Get in Touch  
 
-## 📫 Let's Connect  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lancelot%20Domart-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/lancelot-domart-83b762204/)  
 
-[LinkedIn](https://www.linkedin.com/in/lancelot-domart-83b762204/)
+Feel free to drop a message or connect on LinkedIn—I’m always excited to discuss automation, open‑source collaborations, or new ideas!
