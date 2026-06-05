@@ -1,37 +1,19 @@
-<!-- GitHub Profile README -->
-<div align="center">
+## 👋 About Me  
+I’m a software developer passionate about **automation**, turning repetitive tasks into elegant code solutions.
 
-## 👋 About Me
-I'm a **software developer** who loves turning repetitive tasks into elegant automations.  
-Always exploring new ways to make code work smarter, not harder.
+## 🚀 Projects  
 
----
+| Project | Description & Skills | Link |
+|---------|----------------------|------|
+| **FinBot** | Virtual assistant built on Reddit data that offers personalized financial advice on budgeting, saving, investing, taxes & retirement. <br>**Skills:** Python, NLP, Flask, Reddit API | [GitHub](https://github.com/Lancelot-d/FinBot) |
+| **ChooseYourShoes** | Dash‑powered web app that simplifies gear tracking for Strava activities (running, cycling, multi‑sport). <br>**Skills:** Python, Dash, Pandas, Plotly | [GitHub](https://github.com/Lancelot-d/ChooseYourShoes) |
+| **AutoREADME** | Auto‑generates polished README files for GitHub repos using templates and repo metadata. <br>**Skills:** Python, Jinja2, CLI automation | [GitHub](https://github.com/Lancelot-d/AutoREADME) |
+| **AutomatedLanguageProcessing** | Deep‑learning model that extracts synonyms from text to enrich semantic understanding. <br>**Skills:** TensorFlow, Word2Vec, NLP, GPU training | [GitHub](https://github.com/Lancelot-d/AutomatedLanguageProcessing) |
 
-## 🚀 Projects
+## 📬 Connect  
 
-### 🤖 FinBot  
-Virtual assistant powered by Reddit data to provide personalized financial advice.  
-**Skills:** Python • Reddit API • NLP • Dash  
-[GitHub](https://github.com/Lancelot-d/FinBot)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lancelot-domart-83b762204/)  
 
-### 👟 ChooseYourShoes  
-Sleek, intuitive Dash‑powered web app that simplifies gear tracking for Strava activities.  
-**Skills:** Python • Dash • Plotly • Pandas  
-[GitHub](https://github.com/Lancelot-d/ChooseYourShoes)
+---  
 
-### 📄 AutoREADME  
-Automated generator that creates polished README files from repository metadata.  
-**Skills:** Python • Jinja2 • GitHub Actions • CLI  
-[GitHub](https://github.com/Lancelot-d/AutoREADME)
-
-### 🧠 AutomatedLanguageProcessing  
-Deep‑learning pipeline that extracts synonyms from raw text using transformer models.  
-**Skills:** Python • PyTorch • HuggingFace • spaCy  
-[GitHub](https://github.com/Lancelot-d/AutomatedLanguageProcessing)
-
----
-
-## 📬 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/lancelot-domart-83b762204/)
-
-</div>
+*Feel free to explore the repositories, open issues, or drop a message on LinkedIn!*
