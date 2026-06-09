@@ -1,33 +1,24 @@
-# 👋 Hi, I'm Lancelot d.
+```markdown
+## 👋 Hi, I'm Lancelot  
+Software developer who loves automation.
 
-Software developer with a passion for **automation** – turning repetitive tasks into smart, self‑running solutions.
-
----
-
-## 🚀 Projects
-
-- **FinBot**  
-  Virtual assistant powered by Reddit data to deliver personalized financial advice on budgeting, saving, investing, taxes, and retirement.  
-  **Skills:** Python • NLP • Reddit API • Dash/Streamlit  
+### 🚀 Projects
+- **FinBot** – Virtual assistant powered by Reddit data that offers personalized financial advice (budgeting, saving, investing, taxes, retirement).  
+  *Skills:* Python, NLP, Reddit API, Dash  
   [GitHub](https://github.com/Lancelot-d/FinBot)
 
-- **ChooseYourShoes**  
-  Sleek Dash‑powered web app that simplifies gear management for Strava activities (running, cycling, multisport).  
-  **Skills:** Python • Dash • Plotly • Pandas • Strava API  
+- **ChooseYourShoes** – Sleek Dash web app that simplifies managing and switching activity gear on Strava.  
+  *Skills:* Python, Dash, Plotly, Strava API  
   [GitHub](https://github.com/Lancelot-d/ChooseYourShoes)
 
-- **AutoREADME**  
-  GitHub action that auto‑generates polished README files from repository metadata.  
-  **Skills:** Python • GitHub Actions • Jinja2 • Markdown  
+- **AutoREADME** – Automated generator of polished README files for GitHub repositories.  
+  *Skills:* Python, Jinja2, CLI, GitHub Actions  
   [GitHub](https://github.com/Lancelot-d/AutoREADME)
 
-- **AutomatedLanguageProcessing**  
-  Deep‑learning model that extracts synonyms from raw text to enrich language understanding.  
-  **Skills:** Python • TensorFlow/Keras • Word Embeddings • NLP  
+- **AutomatedLanguageProcessing** – Deep‑learning model that finds synonyms in raw text to boost NLP pipelines.  
+  *Skills:* TensorFlow/Keras, Word embeddings, Text preprocessing  
   [GitHub](https://github.com/Lancelot-d/AutomatedLanguageProcessing)
 
----
-
-## 📫 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lancelot%20Domart-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/lancelot-domart-83b762204/)
+### 📫 Get in touch
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/lancelot-domart-83b762204/)
+```
